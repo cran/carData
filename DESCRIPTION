@@ -1,6 +1,6 @@
 Package: carData
-Version: 3.0-0
-Date: 2017-08-18
+Version: 3.0-1
+Date: 2018-03-28
 Title: Companion to Applied Regression Data Sets
 Authors@R: c(person("John", "Fox", role = c("aut", "cre"), email = "jfox@mcmaster.ca"),
 	person("Sanford", "Weisberg", role = "aut", email = "sandy@umn.edu"),
@@ -15,14 +15,11 @@ License: GPL (>= 2)
 URL: https://r-forge.r-project.org/projects/car/,
         https://CRAN.R-project.org/package=carData,
         http://socserv.socsci.mcmaster.ca/jfox/Books/Companion/index.html
+NeedsCompilation: no
+Packaged: 2018-03-28 16:25:36 UTC; John
 Author: John Fox [aut, cre],
   Sanford Weisberg [aut],
   Brad Price [aut]
 Maintainer: John Fox <jfox@mcmaster.ca>
 Repository: CRAN
-Repository/R-Forge/Project: car
-Repository/R-Forge/Revision: 482
-Repository/R-Forge/DateTimeStamp: 2017-08-27 16:26:39
-Date/Publication: 2017-08-28 14:54:35 UTC
-NeedsCompilation: no
-Packaged: 2017-08-27 16:45:08 UTC; rforge
+Date/Publication: 2018-03-28 22:22:04 UTC
