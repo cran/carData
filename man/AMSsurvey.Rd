@@ -32,13 +32,13 @@ These data are produced yearly by the American Math Society.
 Supplementary Table 4 in the 2008-09 data.  See \url{http://www.ams.org/profession/data/annual-survey/docsgrtd} for more recent data.
 }
 \references{
- Fox, J. and Weisberg, S. (2011) 
- \emph{An R Companion to Applied Regression}, Second Edition, Sage.
+ Fox, J. and Weisberg, S. (2019) 
+ \emph{An R Companion to Applied Regression}, Third Edition, Sage.
   
 Phipps, Polly, Maxwell, James W. and Rose, Colleen
 (2009), \emph{2009 Annual Survey of the Mathematical Sciences},
 57, {250--259}, Supplementary Table 4,
-\url{http://www.ams.org/employment/2009Survey-First-Report-Supp-Table4.pdf}
+orginally downloaded from http://www.ams.org/employment/2009Survey-First-Report-Supp-Table4.pdf
 }
 
 \keyword{datasets}
